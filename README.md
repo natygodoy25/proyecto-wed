@@ -1,2 +1,3 @@
-# proyecto-wed
+# proyecto-web
+
 curso html css
